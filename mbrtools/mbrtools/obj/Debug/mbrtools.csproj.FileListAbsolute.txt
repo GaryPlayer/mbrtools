@@ -1,0 +1,6 @@
+c:\users\megaport\documents\visual studio 2017\Projects\mbrtools\mbrtools\bin\Debug\mbrtools.exe.config
+c:\users\megaport\documents\visual studio 2017\Projects\mbrtools\mbrtools\bin\Debug\mbrtools.exe
+c:\users\megaport\documents\visual studio 2017\Projects\mbrtools\mbrtools\bin\Debug\mbrtools.pdb
+c:\users\megaport\documents\visual studio 2017\Projects\mbrtools\mbrtools\obj\Debug\mbrtools.csprojResolveAssemblyReference.cache
+c:\users\megaport\documents\visual studio 2017\Projects\mbrtools\mbrtools\obj\Debug\mbrtools.exe
+c:\users\megaport\documents\visual studio 2017\Projects\mbrtools\mbrtools\obj\Debug\mbrtools.pdb
